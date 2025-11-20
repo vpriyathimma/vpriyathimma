@@ -84,11 +84,17 @@ Passionate about Android development, clean UI, and writing code that future-me 
 
 ---
 
-## 🗂️ Featured Projects  
+## 🗁 Featured Projects  
 
 ### **AdVia – Android Habit Tracker (Kotlin)**  
 A clean, user-friendly habit-tracking app with analytics and reminders.  
 👉🏽 https://github.com/vpriyathimma/AdVia
+
+### **AI/ML Network Attack Detection System**  
+A machine-learning–based system for detecting network attacks such as SQL Injection, XSS, and malicious traffic using NLP (Doc2Vec), Random Forest, and multiple classifiers (SVC, MLP, KNN). Includes a Flask demo app, trained models, dataset, and project report.  
+👉🏽 https://github.com/vpriyathimma/ai-ml-network-attack-detection  
+
+
 
 ---
 
