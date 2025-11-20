@@ -1,10 +1,6 @@
 <!-- Banner (optional — add your banner image here) -->
-<p align="center">
-  <!-- replace banner.png with your uploaded image -->
-  <img src="https://raw.githubusercontent.com/vpriyathimma/vpriyathimma/main/banner.png" width="100%" alt="banner">
-</p>
 
-<h1 align="center">🤟 Hi, I’m Vishnupriya</h1>
+<h1 align="center">✮⋆˙ Hi, I’m Vishnupriya !</h1>
 <h3 align="center">Software Developer • Android Enthusiast • ML Explorer</h3>
 
 <p align="center">
@@ -108,7 +104,7 @@ A clean, user-friendly habit-tracking app with analytics and reminders.
   
   💬  
   <i>“Make it work, make it right, make it fast.”</i>  
-  <br>— <b>Kent Beck</b>
+  <br>— <b>Kent Beck</b> 
 
 </div>
 
