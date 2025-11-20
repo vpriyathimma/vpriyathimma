@@ -98,7 +98,7 @@ A machine-learning–based system for detecting network attacks such as SQL Inje
 
 ---
 
-## 👊🏾 Let's Connect  
+## 📫 Let's Connect  
 
 <p align="center">
   Feel free to reach out at <a href="mailto:vpriyathimma@gmail.com">Email</a> or or connect with me on <a href="https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/">LinkedIn</a>
@@ -110,7 +110,7 @@ A machine-learning–based system for detecting network attacks such as SQL Inje
   
   💬  
   <i>“Make it work, make it right, make it fast.”</i>  
-  <br>— <b>Kent Beck</b> 
+  <br>- <b>*Kent Beck*</b> 
 
 </div>
 
