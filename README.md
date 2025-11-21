@@ -94,9 +94,9 @@ A clean, user-friendly habit-tracking app with analytics and reminders.
 A machine-learning–based system for detecting network attacks such as SQL Injection, XSS, and malicious traffic using NLP (Doc2Vec), Random Forest, and multiple classifiers (SVC, MLP, KNN). Includes a Flask demo app, trained models, dataset, and project report.  
 👉🏽 https://github.com/vpriyathimma/ml-attack-detector  
 
-### **StackOverflow Search App (Expo – React Native)**  
+### **SolutionFlow App **  
 A mobile app built with **Expo** that lets users search StackOverflow questions and view the **top 10 results** instantly.  
-👉🏽 https://github.com/vpriyathimma/stackoverflow-react-clone-
+👉🏽 https://github.com/vpriyathimma/SolutionFlow-app
 
 
 
