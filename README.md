@@ -1,7 +1,8 @@
 <!-- Banner (optional — add your banner image here) -->
 
 <h1 align="center">✮⋆˙ Hi, I’m Vishnupriya !</h1>
-<h3 align="center">*Crafting websites, debugging Android, and exploring ML one experiment at a time.*</h3>
+<h3 align="center"><i>Crafting websites, debugging Android, and exploring ML one experiment at a time.</i></h3>
+
 
 <p align="center">
 📍Bengaluru, India | 
