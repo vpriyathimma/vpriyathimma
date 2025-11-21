@@ -1,7 +1,7 @@
 <!-- Banner (optional — add your banner image here) -->
 
 <h1 align="center">✮⋆˙ Hi, I’m Vishnupriya !</h1>
-<h3 align="center">Software Developer • Android Enthusiast • ML Explorer</h3>
+<h3 align="center">*Crafting websites, debugging Android, and exploring ML one experiment at a time.*</h3>
 
 <p align="center">
 📍Bengaluru, India | 
@@ -94,7 +94,7 @@ A clean, user-friendly habit-tracking app with analytics and reminders.
 A machine-learning–based system for detecting network attacks such as SQL Injection, XSS, and malicious traffic using NLP (Doc2Vec), Random Forest, and multiple classifiers (SVC, MLP, KNN). Includes a Flask demo app, trained models, dataset, and project report.  
 👉🏽 https://github.com/vpriyathimma/ml-attack-detector  
 
-### **SolutionFlow App **  
+### **SolutionFlow App**  
 A mobile app built with **Expo** that lets users search StackOverflow questions and view the **top 10 results** instantly.  
 👉🏽 https://github.com/vpriyathimma/SolutionFlow-app
 
