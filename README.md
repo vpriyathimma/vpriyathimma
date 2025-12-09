@@ -6,9 +6,9 @@
 
 <p align="center">
 📍Bengaluru, India | 
-📧 <a href="mailto:vpriyathimma@gmail.com">vpriyathimma@gmail.com</a> | 
-🔗 <a href="https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/">LinkedIn</a> | 
-💻 <a href="https://leetcode.com/u/vishnupriyathimma/">LeetCode</a>
+ <a href="mailto:vpriyathimma@gmail.com">vpriyathimma@gmail.com</a> | 
+ <a href="https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/">LinkedIn</a> | 
+ <a href="https://leetcode.com/u/vishnupriyathimma/">LeetCode</a> | 
  <a href="https://vpriyathimma.github.io/portfolio-/">Portfolio</a>
  
 </p>
